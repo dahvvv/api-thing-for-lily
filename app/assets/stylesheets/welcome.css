@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	height: 100%;
+	width: 20%;
+	z-index: -1;
+	position: absolute;
+}
+
+img {
+	margin: 10px;
+}
+
+#text {
+	position: absolute;
+	z-index: 0;
+}
+
+#color1 {
+/*	background-color: green;
+*/}
+
+#color2 {
+/*	background-color: red;
+*/	left: 20%;
+}
+
+#color3 {
+/*	background-color: blue;
+*/	left: 40%;
+}
+
+#color4 {
+/*	background-color: pink;
+*/	left: 60%;
+}
+
+#color5 {
+/*	background-color: orange;
+*/	left: 80%;
+}
